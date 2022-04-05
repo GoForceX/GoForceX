@@ -55,5 +55,3 @@ Python / Java / JavaScript / HTML
 - ENFP-A
 
 - D-Factor 1.57
-
-- ~~男同~~
