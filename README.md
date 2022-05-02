@@ -6,7 +6,7 @@ reality.sync_with(creativity)
 
 **This is GoForceX.** A student who can write bad code.
 
-**这里是GoForceX.** （也可以简称GFX ~~/广丰县~~ ）
+**这里是GoForceX.** （也可以简称GFX ~~/ 广丰县 / 高风险~~ ）
 
 ![](https://img.shields.io/github/followers/GoForceX?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CN_GoForceX?style=social)
@@ -52,6 +52,6 @@ Python / Java / JavaScript / HTML
 
 # 关于我自己
 
-- ENFP-A
+- ENFx-A
 
 - D-Factor 1.57
