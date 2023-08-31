@@ -13,6 +13,8 @@ reality.sync_with(creativity)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoForceX&theme=dracula&layout=compact)
 
+![Visitors](https://count.getloli.com/get/@goforcex.gh.readme?theme=rule34)
+
 # 奇奇怪怪的技能
 
 ## 写代码
