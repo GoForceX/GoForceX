@@ -4,7 +4,7 @@ reality.sync_with(creativity)
 
 # Hi there! / 你好！
 
-**This is GoForceX.** A student who can write bad code.
+**This is GoForceX.** A student who can write ~~bad~~ code.
 
 **这里是GoForceX.** （也可以简称GFX ~~/ 广丰县 / 高风险~~ ）
 
@@ -21,12 +21,12 @@ reality.sync_with(creativity)
 
 Python / Java / JavaScript / HTML / Dart / Kotlin
 
-很菜，在不影响学业的情况下努力提高
+Learning RUST
 
-~~什么都会一点但是又不完全会（~~
-
-~~即使不会的东西看见了会立刻滚去学~~
+很菜 ~~什么都会一点但是又不完全会（~~
 
 # 关于我自己
 
 - ENFx-T
+
+PS: Some commits and PR to the "qqgroupmeme" repo is automatically generated, and is not on my behalf.
