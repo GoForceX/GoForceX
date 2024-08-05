@@ -28,5 +28,4 @@ Learning RUST
 # 关于我自己
 
 - ENFx-T
-
-PS: Some commits and PR to the "qqgroupmeme" repo is automatically generated, and is not on my behalf.
+- 现在是摆烂时间！
