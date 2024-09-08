@@ -32,3 +32,4 @@ Learning RUST
 
 - ENFx-T
 - 现在是摆烂时间！
+- [@npcstation](https://github.com/npcstation) Founder & Former Leader
