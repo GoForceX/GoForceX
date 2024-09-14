@@ -11,6 +11,10 @@ reality.sync_with(creativity)
 
 **这里是GoForceX.** （也可以简称GFX ~~/ 广丰县 / 高风险~~ ）
 
+目前大一，就读于华中科技大学软件工程专业。
+
+Studying **Software Engineering** at HUST, as a freshmen.
+
 ![](https://img.shields.io/github/followers/GoForceX?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CN_GoForceX?style=social)
 
