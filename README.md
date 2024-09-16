@@ -20,6 +20,8 @@ Studying **Software Engineering** at HUST, as a freshmen.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoForceX&theme=dracula&layout=compact)
 
+![Lang Time](https://github-readme-stats.vercel.app/api/wakatime?username=GoForceX&api_domain=wakapi.goforcex.top&layout=compact&theme=dracula)
+
 ![Visitors](https://count.getloli.com/get/@goforcex.gh.readme?theme=rule34)
 
 # 奇奇怪怪的技能
