@@ -2,9 +2,6 @@
 reality.sync_with(creativity)
 ```
 
-> [!IMPORTANT]
-> 军训中，这下是别想写代码了。Under military training courses at the time, may not reply. 
-
 # Hi there! / 你好！
 
 **This is GoForceX.** A student who can write ~~bad~~ code.
