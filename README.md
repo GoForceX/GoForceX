@@ -12,6 +12,8 @@ reality.sync_with(creativity)
 
 Studying **Software Engineering** at HUST, as a freshmen.
 
+DN42 Peering Info: [https://goforcex.top/dn42-peering](https://goforcex.top/dn42-peering)
+
 ![](https://img.shields.io/github/followers/GoForceX?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CN_GoForceX?style=social)
 
