@@ -8,9 +8,16 @@ reality.sync_with(creativity)
 
 **这里是GoForceX.** （也可以简称GFX ~~/ 广丰县 / 高风险~~ ）
 
+# 关于我自己
+
 目前大一，就读于华中科技大学软件工程专业。
 
 Studying **Software Engineering** at HUST, as a freshmen.
+
+- ENFx-T
+- 现在是摆烂时间！
+- [@npcstation](https://github.com/npcstation) Founder & Former Leader
+- [@BingyanStudio](https://github.com/BingyanStudio) Frontend Group Member
 
 DN42 Peering Info: [https://goforcex.top/dn42-peering](https://goforcex.top/dn42-peering)
 
@@ -29,12 +36,6 @@ DN42 Peering Info: [https://goforcex.top/dn42-peering](https://goforcex.top/dn42
 
 Python / Java / JavaScript / HTML / Dart / Kotlin
 
-Learning RUST
+~~Not~~ Learning RUST / React / Taro
 
 很菜 ~~什么都会一点但是又不完全会（~~
-
-# 关于我自己
-
-- ENFx-T
-- 现在是摆烂时间！
-- [@npcstation](https://github.com/npcstation) Founder & Former Leader
